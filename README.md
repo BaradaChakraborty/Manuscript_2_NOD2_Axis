@@ -5,6 +5,9 @@
 **Status:** Complete / Pipeline Finalized
 
 ## Project Overview
+
+> **Research Lineage:** This project is a direct conceptual progression from my foundational study, [*Manuscript 1: Anaerobutyricum halli Gut Project*](https://github.com/BaradaChakraborty/Anaerobutyricum_Gut_Project), expanding the mechanistic focus from species-specific Gram-positive metabolic uncoupling to a systems-level evaluation of the classical NOD2/TLR4 inflammatory axes.
+
 This repository contains a complete, end-to-end computational pipeline analyzing high-resolution shotgun metagenomic data from the Karlsson et al. (2013) clinical cohort. The core objective of this research is to investigate the "microbial trigger" hypothesis of metabolic inflammation, specifically comparing the genetic capacity of the microbiome to synthesize peptidoglycan (NOD2 axis) and lipopolysaccharide (TLR4 axis) across different metabolic phenotypes: Normal Glucose Tolerance (NGT/Control), Impaired Glucose Tolerance (IGT), and Type 2 Diabetes (T2D).
 
 This methodology transitions away from predictive functional profiling (e.g., PICRUSt2) and instead utilizes directly measured MetaCyc pathway abundance data extracted via the HUMAnN pipeline, processed in R.
