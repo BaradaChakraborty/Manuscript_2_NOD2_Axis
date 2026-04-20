@@ -39,3 +39,6 @@ By systematically ruling out progressive NOD2 trigger accumulation, LPS strain-s
 * **Bioconductor:** `curatedMetagenomicData`, `phyloseq`
 * **Tidyverse:** `dplyr`, `ggplot2`
 * **Statistics:** `ggpubr` (Non-parametric ranking, FDR adjustments)
+
+## View High-Resolution Figures and Manuscript Draft Here
+https://drive.google.com/drive/folders/1OexvOf-b1ZXMOtWg5Ha25--78vf3ibr3?usp=sharing
