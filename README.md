@@ -12,6 +12,9 @@ This repository contains a complete, end-to-end computational pipeline analyzing
 
 This methodology transitions away from predictive functional profiling (e.g., PICRUSt2) and instead utilizes directly measured MetaCyc pathway abundance data extracted via the HUMAnN pipeline, processed in R.
 
+### Live Manuscript
+The complete, up-to-date research article detailing the biological mechanisms and discussion can be viewed here: [Read the Active Manuscript on Google Docs](https://docs.google.com/document/d/1hTAB-UbB17MBnO4dij72jzZ2jZtafeckPWNmR7tDuXM/edit?usp=sharing)
+
 ## Pipeline Architecture
 The analysis is structured into a reproducible, sequential R-script pipeline:
 
@@ -42,6 +45,3 @@ By systematically ruling out progressive NOD2 trigger accumulation, LPS strain-s
 * **Bioconductor:** `curatedMetagenomicData`, `phyloseq`
 * **Tidyverse:** `dplyr`, `ggplot2`
 * **Statistics:** `ggpubr` (Non-parametric ranking, FDR adjustments)
-
-## View High-Resolution Figures and Manuscript Draft Here
-https://drive.google.com/drive/folders/1OexvOf-b1ZXMOtWg5Ha25--78vf3ibr3?usp=sharing
